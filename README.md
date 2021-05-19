@@ -6,3 +6,7 @@ cd assignment7_Wine
 bash create_vision_venv.sh 
 source ./Wine_env/bin/activate
 ```
+
+```
+python wine_new.py -x -c 
+```
