@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/askesvane/LanguageAnalytics.git
-cd assignment7_Wine
+cd assignment7_WineClassification 
 bash create_vision_venv.sh 
 source ./Wine_env/bin/activate
 ```
